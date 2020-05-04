@@ -1,0 +1,1 @@
+flask-sse-no-deps
